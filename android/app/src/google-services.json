@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1010213461541",
+    "project_id": "instagram-faf60",
+    "storage_bucket": "instagram-faf60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010213461541:android:f5a7ffb523a04bbfcaa9cc",
+        "android_client_info": {
+          "package_name": "com.example.instagram_ui_design"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1010213461541-1gll2up82balqujukdear19m90bi6175.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5SW4ygmGRI798AoBAPsYB4Gkm-KnUKTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1010213461541-1gll2up82balqujukdear19m90bi6175.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
